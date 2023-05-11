@@ -1,0 +1,45 @@
+.container{
+    margin-top: 50px;
+    margin-bottom: 50px; 
+    text-align: center;
+}
+
+#main{
+    padding-left: 30px;
+    padding-right: 30px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
+
+.carts{
+    width: 250px;
+    padding: 5px;
+    border: 2px solid black;
+    border-radius: 5px;
+    margin: 10px;
+}
+.carts h2{
+    margin-bottom: 10px;
+
+}
+.carts p{
+    margin-bottom: 10px;
+}
+.carts button{
+    margin-bottom: 10px;
+    background-color:blue;
+    width: 170px;
+    padding: 10px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bolder;
+}
+h1{
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-color: teal;
+}
